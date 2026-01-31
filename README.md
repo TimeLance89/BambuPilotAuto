@@ -47,8 +47,8 @@
 
 1.  **Clone & Install**
     ```bash
-    git clone https://github.com/TheJester/Gcoder.git
-    cd Gcoder
+    git clone https://github.com/TimeLance89/BambuPilotAuto
+    cd BambuPilotAuto
     pip install -r requirements.txt
     ```
 
