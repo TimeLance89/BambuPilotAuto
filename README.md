@@ -4,7 +4,7 @@
 ![Version](https://img.shields.io/badge/version-1.1%20Stable-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
-![Support](https://img.shields.io/badge/printers-X1C%20%7C%20P1S%20%7C%20P1P%20%7C%20A1-orange)
+![Support](https://img.shields.io/badge/printers-X1C%20%7C%20P1S%20%7C%20P1P%20%-orange)
 
 ***
 
